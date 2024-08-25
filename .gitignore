@@ -1,0 +1,56 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs
+*.log
+*.log.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Jest cache and coverage
+/coverage/
+.jest/
+
+# Optional npm cache directory
+.npm
+
+# Parcel-bundler cache (https://parceljs.org/)
+.cache
+.parcel-cache
+
+# dotenv environment variable files
+.env
+
+# Ignore IntelliJ IDEA project files
+.idea/
+
+# Ignore Visual Studio Code workspace files
+.vscode/
+
+# Build directories
+dist/
+build/
+
+# Other configurations
+*.tsbuildinfo
